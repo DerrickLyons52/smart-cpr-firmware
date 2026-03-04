@@ -1,3 +1,14 @@
+/*
+ * Smart CPR Training System – Firmware
+ * ENGR 498 Senior Design
+ *
+ * This firmware computes CPR quality metrics and drives
+ * a pump-based blood flow visualization system.
+ *
+ * MVP State: Scenario-driven DBP (no live sensors yet)
+ */
+
+
 #include <Arduino.h>
 #include <math.h>
 #include "dbp.h"
