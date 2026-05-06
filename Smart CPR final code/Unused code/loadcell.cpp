@@ -1,0 +1,1 @@
+//No code in this file, just a placeholder for the load cell code that will be added in the future.
